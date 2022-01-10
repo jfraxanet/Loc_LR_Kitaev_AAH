@@ -1,6 +1,6 @@
 # Localization and multifractal properties of the long-range Kitaev chain in the presence of an Aubry-André-Harper modulation
 
-[![DOI]]
+[![DOI](https://zenodo.org/badge/446345141.svg)](https://zenodo.org/badge/latestdoi/446345141)
 
 > By Joana Fraxanet, Utso Bhattacharya, Tobias Grass, Maciej Lewenstein and Alexandre Dauphin
 
